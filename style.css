@@ -9,7 +9,6 @@
 main {
     margin: 0 auto;
     max-width: 1440px;
-    /* padding: 0 18px; */
 }
 
 a {
@@ -302,7 +301,7 @@ header {
 .cards4 {
     padding: 0 10px 0 10px;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(370px, 1fr)); 
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
     gap: 35px;
     width: 100%;
     max-width: 1280px;
@@ -317,7 +316,8 @@ header {
 .pict4 img{
     border-radius: 8px;
     height: 222px;
-    width: 394.67px;
+    max-width: 394.67px;
+    width: 100%;
     object-fit: cover;
     object-position: 45% 100%;
     font-family: 'Poppins', sans-serif;  
@@ -439,7 +439,7 @@ header {
 .cards6 {
     padding: 0 10px 0 10px;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(370px, 1fr)); 
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
     gap: 35px;
     width: 100%;
     max-width: 1280px;
@@ -454,7 +454,8 @@ header {
 .img6 {
     border-radius: 8px;
     height: 222px;
-    width: 394.67px;
+    width: 100%;
+    max-width: 394.67px;
     object-fit: cover;
     font-family: 'Poppins', sans-serif;  
     font-size: 22px;
