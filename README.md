@@ -1,1 +1,1 @@
-# [Page1](https://egorikk02.github.io/Page1/)
+# [Page](https://egorikk02.github.io/Page/)
