@@ -447,6 +447,7 @@ header {
     display: flex;
     flex-direction: column;
     gap: 15.5px;
+    align-items: center;
 }
 
 .img6 {
