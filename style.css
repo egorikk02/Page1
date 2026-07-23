@@ -446,6 +446,7 @@ header {
 .card6 {
     display: flex;
     flex-direction: column;
+    align-items: center;
     gap: 15.5px;
     align-items: center;
 }
